@@ -44,14 +44,14 @@ I welcome anyone else who sees value in what we're creating to also join the tea
 
 <b><i>Coursera</i>:</b> (These courses vary wildly, they can be free or costly, they can be long or quite short in length. I’ll try to list the requirements if any at the end of each link.)
 <ul>
-  <li><a href="https://www.coursera.org/specializations/programming-unity-game-development">C# Programming for Unity Game Development Specialization</a> ($49 USD per month after 7 day free trial, approx. 5 hours per week for 6 months)</li>
-  <li><a href="https://www.coursera.org/projects/buildingacalculatorinvisualstudio">Building a Calculator using C# in Visual Studio</a> ($9.99 USD, approx. 90mins to complete)</li>
-  <li><a href="https://www.coursera.org/learn/programming-languages">Programming Languages, Part A</a> (Option 1: Full Course No Certificate Free, Option 2: Purchase Course $39 USD, course length approx. 30hrs to complete)</li>
-  <li><a href="https://www.coursera.org/learn/programming-languages-part-b">Programming Languages, Part B</a> (Option 1: Full Course No Certificate Free, Option 2: Purchase Course $29 USD, course length approx. 17hrs to complete)</li>
-  <li><a href="https://www.coursera.org/learn/programming-languages-part-c">Programming Languages, Part C</a> (Option 1: Full Course No Certificate Free, Option 2: Purchase Course $29 USD, course length approx. 18hrs to complete)</li>
+  <li><a href="https://www.coursera.org/specializations/programming-unity-game-development">C# Programming for Unity Game Development Specialization</a> ($49 USD per month after 7 day free trial; approx. 5 hours per week for 6 months)</li>
+  <li><a href="https://www.coursera.org/projects/buildingacalculatorinvisualstudio">Building a Calculator using C# in Visual Studio</a> ($9.99 USD; approx. 90mins to complete)</li>
+  <li><a href="https://www.coursera.org/learn/programming-languages">Programming Languages, Part A</a> (no certificate free, with certificate $39 USD; approx. 30hrs to complete)</li>
+  <li><a href="https://www.coursera.org/learn/programming-languages-part-b">Programming Languages, Part B</a> (no certificate free, with certificate $29 USD; approx. 17hrs to complete)</li>
+  <li><a href="https://www.coursera.org/learn/programming-languages-part-c">Programming Languages, Part C</a> (no certificate free, with certificate $29 USD; approx. 18hrs to complete)</li>
 </ul>
 
-<b><i>YouTube</i>:</b> (Here are some helpful video tutorials to help you along the way)
+<b><i>YouTube</i>:</b> (Here are some helpful video tutorials, don't forget to subscribe and hit the like button, it's good for the algorithm)
 <ul>
   <li><a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a></li>
 </ul>
