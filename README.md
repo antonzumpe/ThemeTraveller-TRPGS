@@ -1,4 +1,4 @@
-<b>Theme Traveler: Tabletop RPG Software</b>
+<b>Theme Traveler: Tabletop RPG Software<b>
 
 # Introduction
 
@@ -6,17 +6,17 @@ Hi and welcome to the Theme Traveler: Tabletop RPG Software Readme File, this sp
 
 # Project Overview
 
-The goal of this project is to develop games and software with an open source license that’s available for the world to download and enjoy with the benefits of the user being able to modify it however they see fit. The first addition to this project will be a set of tools that can be used to run a digital tabletop RPG game. The user will be able to create custom rules and world settings then have other players join the game session and run encounters for those players.  
+The goal of this project is to develop games and software with an open source license that’s available for the world to download and enjoy with the benefits of the user being able to modify it however they see fit. The first addition to this project will be a set of tools that can be used to run a digital tabletop RPG game. The user will be able to create custom rules and world settings then have other players join the game session and run encounters for those players.
 
 # Development Team
 
 Let's meet them all :)
 
-Anton Zumpe - Lead Developer, 6 Aug 2020 to Current
+<b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Current<b>
 
 Bio: Anton is obsessed with critical deconstruction of game design. He notices flaws and tries to think of ways to implement better systems. As a child he was enthralled by video game systems like NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar interests who will create games and software that better suit their audiences. 
 
-Jane or John Doe - Any Role You Wish, Start Today
+<b>Jane or John Doe - Any Role You Wish, Start Today<b>
 
 Bio: Become the next team member and get involved with this project to help steer the ship and add features that you believe would lead to a better user experience.
 
