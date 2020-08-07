@@ -92,7 +92,7 @@ Cards - Player Character, Non-Player Character, Monster, Item, Spell, Ability, E
 
 Windows - Player Sheet, Map, Encounter, Rules, Image, Chat/Message, Dungeon Master Screen, Dice Roll, Combat Initiative, Treasure, Information, System, Card Collection, Quest, Story, Tables, Notes,
 
-Library - Core Rule Books, Adventures, Supplemental Books,
+Library - Custom,
 
 Tokens/Models - Custom,
 
@@ -104,6 +104,7 @@ Transparency of distributed funds for the project including number of hours each
 
 # Post Release
 
+Library - Core Rule Books, Adventures, Supplemental Books,<br/>
 Tokens/Models - Monsters, Characters, Buildings, Trees, Accessories, Traps, Secret Doors, Terrain,<br/>
 Features - Purchase Custom Dice, Subscription Models, Download Add-ons, Online Account for Downloading Purchases, 
 
