@@ -1,4 +1,4 @@
-<b>Theme Traveler: Tabletop RPG Software</b>
+<b>Theme Traveller: Tabletop RPG Software</b>
 
 # Introduction
 
