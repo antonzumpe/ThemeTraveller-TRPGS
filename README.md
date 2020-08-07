@@ -18,7 +18,7 @@ Let's meet them all :)
 
 <b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Present Day</b></br>
 <b>Contact:</b> antonzumpe@protonmail.com</br>
-<b>Activity:</b>Taking the Udemy course <a href="https://www.udemy.com/course/math-for-games/">Math For Video Games: The Fastest Way To Get Smarter At Math</a>; Progress: Just started; Last updated on 8 Aug 2020
+<b>Activity:</b> Working through the Udemy course, <a href="https://www.udemy.com/course/math-for-games/">Math For Video Games: The Fastest Way To Get Smarter At Math</a>; Progress: Just started; Last updated on 8 Aug 2020
 
 <b>Bio:</b> Anton is obsessed with critical deconstruction of game design. With a keen eye for detail he's adept at noticing flaws and thinking of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad of games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar ideologies who would also like to create games and software that better suit their audiences. 
 
@@ -83,9 +83,9 @@ email: antonzumpe@protonmail.com
 
 <b>Game Object Creation:</b> These tools are for creating 2D and 3D game assets.
 <ul>
-  <li><a href="https://www.blender.org/download/">Download Blender 2.83.4</a> (3D Models)</li>
-  <li><a href="https://www.gimp.org/downloads/">Download Gimp 2.10.20</a> (2D Art)</li>
-  <li><a href="https://www.getpaint.net/download.html">Download Paint.net 4.2.13</a> (2D Pixel Art)</li>
+  <li><a href="https://www.blender.org/download/">Download Blender 2.83.4</a> - 3D Models</li>
+  <li><a href="https://www.gimp.org/downloads/">Download Gimp 2.10.20</a> - 2D Art</li>
+  <li><a href="https://www.getpaint.net/download.html">Download Paint.net 4.2.13</a> - 2D Pixel Art</li>
 </ul>
 
 <b>Code Editor:</b> Visual Studio Code is our goto code editor.
