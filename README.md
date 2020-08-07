@@ -25,7 +25,7 @@ I welcome anyone else who sees value in what we're creating to also join the tea
 # Learning Tools
 
 
-<b><i>Udemy</i></b>: (These courses are not free but often go on sale for around $10 to $15 USD each)
+<b><i>Udemy</i>:</b> (These courses are not free but often go on sale for around $10 to $15 USD each)
 <ul>
   <li><a href="https://www.udemy.com/course/unitycourse/">Complete C# Unity Game Developer 2D</a></li>
   <li><a href="https://www.udemy.com/course/unitycourse2/">Complete C# Unity Game Developer 3D</a></li>
@@ -37,12 +37,12 @@ I welcome anyone else who sees value in what we're creating to also join the tea
   <li><a href="https://www.udemy.com/course/the-complete-web-developer-course-2/">The Complete Web Developer Course 2.0</a></li>
 </ul>  
 
-<b><i>Codecademy</i></b>: (This course is free but for a subscription service you can get a much more in depth learning experience)
+<b><i>Codecademy</i>:</b> (This course is free but for a subscription service you can get a much more in depth learning experience)
 <ul>
   <li><a href="https://www.codecademy.com/learn/learn-c-sharp">Learn C#</a></li>
 </ul>
 
-<b><i>Coursera</i></b>: (These courses vary wildly, they can be free or costly, they can be long or quite short in length. I’ll try to list the requirements if any at the end of each link.)
+<b><i>Coursera</i>:</b> (These courses vary wildly, they can be free or costly, they can be long or quite short in length. I’ll try to list the requirements if any at the end of each link.)
 <ul>
   <li><a href="https://www.coursera.org/specializations/programming-unity-game-development">C# Programming for Unity Game Development Specialization</a> ($49 USD per month after 7 day free trial, approx. 5 hours per week for 6 months)</li>
   <li><a href="https://www.coursera.org/projects/buildingacalculatorinvisualstudio">Building a Calculator using C# in Visual Studio</a> ($9.99 USD, approx. 90mins to complete)</li>
@@ -51,31 +51,31 @@ I welcome anyone else who sees value in what we're creating to also join the tea
   <li><a href="https://www.coursera.org/learn/programming-languages-part-c">Programming Languages, Part C</a> (Option 1: Full Course No Certificate Free, Option 2: Purchase Course $29 USD, course length approx. 18hrs to complete)</li>
 </ul>
 
-<b><i>YouTube</i></b>: (Here are some helpful video tutorials to help you along the way)
+<b><i>YouTube</i>:</b> (Here are some helpful video tutorials to help you along the way)
 <ul>
   <li><a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a></li>
 </ul>
 
-<b><i>GitHub</i></b>: (You can join and learn how to use GitHub for free, just follow the beginner tutorials when you create a new account)
+<b><i>GitHub</i>:</b> (You can join and learn how to use GitHub for free, just follow the beginner tutorials when you create a new account)
 <ul>
   <li><a href="https://github.com/">GitHub</a></li> 
 </ul>
 
 # Development Tools
 
-<b>Software Design</b>: (The Unity Game Engine is use to design the software)
+<b>Software Design:</b> (The Unity Game Engine is used to design the software)
 <ul>
   <li><a href="https://unity3d.com/get-unity/download">Download Unity Hub</a></li>
 </ul>
 
-<b>Game Object Creation</b>: (These tools are for creating 2D and 3D game assets)
+<b>Game Object Creation:</b> (These tools are for creating 2D and 3D game assets)
 <ul>
   <li><a href="https://www.blender.org/download/">Download Blender 2.83.4</a> (3D Models)</li>
   <li><a href="https://www.gimp.org/downloads/">Download Gimp 2.10.20</a> (2D Art)</li>
   <li><a href="https://www.getpaint.net/download.html">Download Paint.net 4.2.13</a> (2D Pixel Art)</li>
 </ul>
 
-<b>Code Editor</b>: (Visual Studio Code is our goto code editor)
+<b>Code Editor:</b> (Visual Studio Code is our goto code editor)
 <ul>
   <li><a href="https://code.visualstudio.com/download">Download Visual Studio Code</a></li>
 </ul>
