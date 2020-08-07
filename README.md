@@ -88,28 +88,27 @@ Outlined below is a list of systems and features we wish to implement into the s
 
 Core Systems - Cards, Windows, Tokens, Library, Rule Sets, Dice Calculator,
 
-Cards - Player Character Sheet, Non Player Character, Monster, Item, Spell, Ability, Encounter, Terrain, Traps, Backgrounds/Bio, Feat, Race, Class, Skill,
+Cards - Player Character, Non-Player Character, Monster, Item, Spell, Ability, Encounter, Terrain, Trap, Background/Bio, Feat, Race, Class, Skill,
 
-Windows - Player, Map, Encounter, Rules, Sounds (media player), Image, Chat/Message, Dungeon Master Screen, Dice Roll, Combat Initiative, Treasure, Information, System, Card Collection, Quest, Story, Tables, Notes,
-
-Tokens/Models - Monsters, Characters, Buildings, Trees, Accessories, Traps, Secret Doors, Terrain,
+Windows - Player Sheet, Map, Encounter, Rules, Image, Chat/Message, Dungeon Master Screen, Dice Roll, Combat Initiative, Treasure, Information, System, Card Collection, Quest, Story, Tables, Notes,
 
 Library - Core Rule Books, Adventures, Supplemental Books,
 
+Tokens/Models - Custom,
+
 Rule Sets - Custom, 
 
-Features - Free Open Source, Multiplayer, Multi-Screen Layout, Private Local Server Hosting, Create Custom Rules, Detailed Search Function with Filters, Core Set Identifying Symbols, Card Collection Binder with Tabs, Rule Set Selection, Tokens and Markers,
+Features - Open Source License, Multiplayer, Multi-Screen Layout, Private Local Server Hosting, Create Custom Rules, Detailed Search Function with Filters, Core Set Identifying Symbols, Card Collection Binder with Tabs, Rule Set Selection, Tokens and Markers,
 
-Transparency of distributed funds for the project including number of hours each artist, programmer, designer, developer and contributor has spent working on the software.
+Transparency of distributed funds for the project including number of hours each contributor has spent working on the software.
 
 # Post Release
 
-Systems - Rule Sets - D&D 3.5/4th/5th Edition by Wizards of the Coast, Pathfinder 2nd Edition by Paizo, Star Wars Roleplaying Game by Fantasy Flight Games,
-
+Tokens/Models - Monsters, Characters, Buildings, Trees, Accessories, Traps, Secret Doors, Terrain,
 Features - Purchase Custom Dice, Subscription Models, Download Add-ons, Online Account for Downloading Purchases, 
 
 # Possible Future Release
 
-Systems - 3D Miniatures and Dungeon Tiles, 
-
+Systems - 3D Miniatures and Dungeon Tiles, Sounds Window (media player), 
+Rule Sets - D&D 3.5/4th/5th Edition by Wizards of the Coast, Pathfinder 2nd Edition by Paizo, Star Wars Roleplaying Game by Fantasy Flight Games,
 Features - Purchase Core Rules and Modules,
