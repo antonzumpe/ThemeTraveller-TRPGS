@@ -98,7 +98,7 @@ Tokens/Models - Custom,
 
 Rule Sets - Custom, 
 
-Features - Open Source License, Multiplayer, Multi-Screen Layout, Private Local Server Hosting, Create Custom Rules, Detailed Search Function with Filters, Core Set Identifying Symbols, Card Collection Binder with Tabs, Rule Set Selection, Tokens and Markers,
+Features - Open Source License, Multiplayer, Multi-Screen Layout, Private Local Server Hosting, Create Custom Rules, Detailed Search Function with Filters, Card Collection Binder with Tabs, Rule Set Selection, 
 
 Transparency of distributed funds for the project including number of hours each contributor has spent working on the software.
 
@@ -112,4 +112,4 @@ Features - Purchase Custom Dice, Subscription Models, Download Add-ons, Online A
 
 Systems - 3D Miniatures and Dungeon Tiles, Sounds Window (media player),<br/> 
 Rule Sets - D&D 3.5/4th/5th Edition, Pathfinder 2nd Edition, Star Wars Roleplaying Game,<br/>
-Features - Purchase Core Rules and Modules,
+Features - Purchase Core Rules and Modules, Core Set Identifying Symbols,
