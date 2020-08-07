@@ -13,14 +13,22 @@ The goal of this project is to develop games and software with an open source li
 Let's meet them all :)
 
 <b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Current</b>
+Contact me; antonzumpe@protonmail.com
 
-Bio: Anton is obsessed with critical deconstruction of game design. He notices flaws and tries to think of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar interests who will create games and software that better suit their audiences. 
+<b>Bio:</b> Anton is obsessed with critical deconstruction of game design. He notices flaws and tries to think of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar interests who will create games and software that better suit their audiences. 
 
 <b>Jane or John Doe - Any Role You Wish, Start Today</b>
 
-Bio: Become the next team member and get involved with this project to help steer the ship and add features that you believe would lead to a better user experience.
+<b>Bio:</b> Become the next team member and get involved with this project to help steer the ship and add features that you believe would lead to a better user experience.
 
-I welcome anyone else who sees value in what we're creating to also join the team and help with this collaborative process. You do not need any prior experience in software development to be part of this team, I have little to none myself and I'm learning as I progress through various web apps and online services such as <i>Udemy</i>, <i>Codecademy</i>, <i>Coursera</i>, <i>Youtube</i> and <i>GitHub</i>. This software is being developed using the <i>Unity Game Engine</i>, assets are created with <i>Blender</i>, <i>Gimp</i> and <i>Paint.net</i>, the code editing is done in <i>Visual Studio Code</i>. All of these tools are available to download and use for free.
+# Contact Us
+
+To all interested parties,
+
+I welcome anyone else who sees value in what we're creating to also join our community and help with this collaborative process. You do not need any prior experience in software development to be part of the team, I have little to none myself and I'm learning as I progress through various web apps and online services such as <i>Udemy</i>, <i>Codecademy</i>, <i>Coursera</i>, <i>Youtube</i> and <i>GitHub</i>. This software is being developed using the <i>Unity Game Engine</i>, assets are created with <i>Blender</i>, <i>Gimp</i> and <i>Paint.net</i>, the code editing is done in <i>Visual Studio Code</i>. All of these tools are available to download and use for free. Please contact me if you'd like to get involved or even if it's just to say hi and you love what we're up to. Thanks for taking an intrest in our project.
+
+Kindest regards, Anton Zumpe
+email: antonzumpe@protonmail.com
 
 # Learning Tools
 
