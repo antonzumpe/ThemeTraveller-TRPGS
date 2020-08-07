@@ -13,7 +13,7 @@ The goal of this project is to develop games and software with an open source li
 Let's meet them all :)
 
 <b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Current</b></br>
-Contact me; antonzumpe@protonmail.com
+<b>Contact me;</b> antonzumpe@protonmail.com
 
 <b>Bio:</b> Anton is obsessed with critical deconstruction of game design. He notices flaws and tries to think of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar interests who will create games and software that better suit their audiences. 
 
