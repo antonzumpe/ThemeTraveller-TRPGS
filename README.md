@@ -1,11 +1,11 @@
 # Readme
 
-Last updated on 8th August 2020</br>
+Last updated on 8 Aug 2020</br>
 <b>Theme Traveller: Tabletop RPG Software</b> is being developed in the <b><i>Unity Game Engine</i></b>
 
 # Introduction
 
-Hi and welcome to the Theme Traveller: Tabletop RPG Software Readme File.</br> 
+Hi and welcome to the Theme Traveller: Tabletop RPG Software readme file.</br> 
 This space will also serve as the software’s design document. 
 
 # Project Overview
@@ -16,14 +16,15 @@ The goal of this project is to develop games and software with an open source li
 
 Let's meet them all :)
 
-<b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Current</b></br>
-<b>Contact;</b> antonzumpe@protonmail.com
+<b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Present Day</b></br>
+<b>Contact:</b> antonzumpe@protonmail.com</br>
+<b>Activity:</b>Taking the Udemy course <a href="https://www.udemy.com/course/math-for-games/">Math For Video Games: The Fastest Way To Get Smarter At Math</a>; Progress: Just started; Last updated on 8 Aug 2020
 
-<b>Bio:</b> Anton is obsessed with critical deconstruction of game design. He notices flaws and tries to think of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar interests who will create games and software that better suit their audiences. 
+<b>Bio:</b> Anton is obsessed with critical deconstruction of game design. With a keen eye for detail he's adept at noticing flaws and thinking of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad of games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar ideologies who would also like to create games and software that better suit their audiences. 
 
 <b>Jane or John Doe - Any Role You Wish, Start Today</b>
 
-<b>Bio:</b> Become the next team member and get involved with this project to help steer the ship and add features that you believe would lead to a better user experience.
+<b>Bio:</b> Become the next team member and get involved with this project to help steer the ship and add features that you believe will lead to a better user experience.
 
 # Contact Us
 
@@ -37,7 +38,7 @@ email: antonzumpe@protonmail.com
 # Learning Tools
 
 
-<b><i>Udemy</i>:</b> (These courses are not free but often go on sale for around $10 to $15 USD each)
+<b><i>Udemy</i>:</b> These courses are not free but often go on sale for around $10 to $15 USD each.
 <ul>
   <li><a href="https://www.udemy.com/course/unitycourse/">Complete C# Unity Game Developer 2D</a></li>
   <li><a href="https://www.udemy.com/course/unitycourse2/">Complete C# Unity Game Developer 3D</a></li>
@@ -49,45 +50,45 @@ email: antonzumpe@protonmail.com
   <li><a href="https://www.udemy.com/course/the-complete-web-developer-course-2/">The Complete Web Developer Course 2.0</a></li>
 </ul>  
 
-<b><i>Codecademy</i>:</b> (This course is free but for a subscription service you can get a much more in depth learning experience)
+<b><i>Codecademy</i>:</b> This course is free but for a subscription service you can get a much more in depth learning experience.
 <ul>
   <li><a href="https://www.codecademy.com/learn/learn-c-sharp">Learn C#</a></li>
 </ul>
 
-<b><i>Coursera</i>:</b> (These courses vary wildly, they can be free or costly, they can be long or quite short in length. I’ll try to list the requirements if any at the end of each link.)
+<b><i>Coursera</i>:</b> These courses vary wildly, they can be free or costly, they can be long or quite short in length. I’ll try to list the requirements if any at the end of each link.
 <ul>
   <li><a href="https://www.coursera.org/specializations/programming-unity-game-development">C# Programming for Unity Game Development Specialization</a> ($49 USD per month after 7 day free trial; approx. 5 hours per week for 6 months)</li>
   <li><a href="https://www.coursera.org/projects/buildingacalculatorinvisualstudio">Building a Calculator using C# in Visual Studio</a> ($9.99 USD; approx. 90mins to complete)</li>
-  <li><a href="https://www.coursera.org/learn/programming-languages">Programming Languages, Part A</a> (no certificate free, with certificate $39 USD; approx. 30hrs to complete)</li>
-  <li><a href="https://www.coursera.org/learn/programming-languages-part-b">Programming Languages, Part B</a> (no certificate free, with certificate $29 USD; approx. 17hrs to complete)</li>
-  <li><a href="https://www.coursera.org/learn/programming-languages-part-c">Programming Languages, Part C</a> (no certificate free, with certificate $29 USD; approx. 18hrs to complete)</li>
+  <li><a href="https://www.coursera.org/learn/programming-languages">Programming Languages, Part A</a> (free with no certificate, $39 USD with certificate; approx. 30hrs to complete)</li>
+  <li><a href="https://www.coursera.org/learn/programming-languages-part-b">Programming Languages, Part B</a> (free with no certificate, $29 USD with certificate; approx. 17hrs to complete)</li>
+  <li><a href="https://www.coursera.org/learn/programming-languages-part-c">Programming Languages, Part C</a> (free with no certificate, $29 USD with certificate; approx. 18hrs to complete)</li>
 </ul>
 
-<b><i>YouTube</i>:</b> (Here are some helpful video tutorials, don't forget to subscribe and hit the like button, it's good for the algorithm)
+<b><i>YouTube</i>:</b> Here are some helpful video tutorials, don't forget to subscribe and hit the like button, it's good for the algorithm.
 <ul>
   <li><a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a></li>
 </ul>
 
-<b><i>GitHub</i>:</b> (You can join and learn how to use GitHub for free, just follow the beginner tutorials when you create a new account)
+<b><i>GitHub</i>:</b> You can join and learn how to use GitHub for free, just follow the beginner tutorials when you create a new account.
 <ul>
   <li><a href="https://github.com/">GitHub</a></li> 
 </ul>
 
 # Development Tools
 
-<b>Software Design:</b> (The Unity Game Engine is used to design the software)
+<b>Software Design:</b> The Unity Game Engine is used to design the software.
 <ul>
   <li><a href="https://unity3d.com/get-unity/download">Download Unity Hub</a></li>
 </ul>
 
-<b>Game Object Creation:</b> (These tools are for creating 2D and 3D game assets)
+<b>Game Object Creation:</b> These tools are for creating 2D and 3D game assets.
 <ul>
   <li><a href="https://www.blender.org/download/">Download Blender 2.83.4</a> (3D Models)</li>
   <li><a href="https://www.gimp.org/downloads/">Download Gimp 2.10.20</a> (2D Art)</li>
   <li><a href="https://www.getpaint.net/download.html">Download Paint.net 4.2.13</a> (2D Pixel Art)</li>
 </ul>
 
-<b>Code Editor:</b> (Visual Studio Code is our goto code editor)
+<b>Code Editor:</b> Visual Studio Code is our goto code editor.
 <ul>
   <li><a href="https://code.visualstudio.com/download">Download Visual Studio Code</a></li>
 </ul>
