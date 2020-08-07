@@ -1,4 +1,6 @@
-<b>Theme Traveller: Tabletop RPG Software</b> is being developed in the Unity Game Engine
+# Readme
+
+<b><h1>Theme Traveller: Tabletop RPG Software</h1></b> is being developed in the <b><i>Unity Game Engine</i></b>
 
 # Introduction
 
