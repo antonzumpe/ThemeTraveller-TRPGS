@@ -2,7 +2,7 @@
 
 # Introduction
 
-Hi and welcome to the Theme Traveler: Tabletop RPG Software Readme File.</br> 
+Hi and welcome to the Theme Traveller: Tabletop RPG Software Readme File.</br> 
 This space will also serve as the software’s design document. 
 
 # Project Overview
