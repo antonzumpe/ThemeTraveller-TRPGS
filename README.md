@@ -99,7 +99,7 @@ Core Systems - Cards, Windows, Tokens, Library, Rule Sets, Dice Calculator,
 
 Cards - Player Character, Non-Player Character, Monster, Item, Spell, Ability, Encounter, Terrain, Trap, Background/Bio, Feat, Race, Class, Skill,
 
-Windows - Player Sheet, Map, Encounter, Rules, Image, Chat/Message, Dungeon Master Screen, Dice Roll, Combat Initiative, Treasure, Information, System, Card Collection, Quest, Story, Tables, Notes,
+Windows - Player Sheet, Map, Encounter, Rules, Image, Chat/Message, Dungeon Master Screen, Dice Roll, Combat Initiative, Treasure, Inventory/Bag/Stash/Chest, Information, System, Card Collection, Quest, Story, Tables, Notes,
 
 Library - Custom,
 
