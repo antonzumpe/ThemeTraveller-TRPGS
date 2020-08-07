@@ -1,5 +1,5 @@
 
-<p class="text-center"><b>Theme Traveler: Tabletop RPG Software</b></p>
+<b>Theme Traveler: Tabletop RPG Software</b>
 
 # Introduction
 
