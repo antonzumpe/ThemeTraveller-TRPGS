@@ -18,6 +18,7 @@ Let's meet them all :)
 
 <b>Anton Zumpe - Lead Developer, 6 Aug 2020 to Present Day</b></br>
 <b>Contact:</b> antonzumpe@protonmail.com</br>
+<b>Location:</b> Victoria, Australia</br>
 <b>Activity:</b> Working through the Udemy course, <a href="https://www.udemy.com/course/math-for-games/">Math For Video Games: The Fastest Way To Get Smarter At Math</a>; Progress: Just started; Last updated on 8 Aug 2020
 
 <b>Bio:</b> Anton is obsessed with critical deconstruction of game design. With a keen eye for detail he's adept at noticing flaws and thinking of ways to implement better systems. As a child he was enthralled by video game systems like the NES, SNES, N64 and GameCube. His favorite game franchise is The Legend of Zelda. Today he plays a myriad of games across many platforms and he’s quickly become disappointed with the design philosophy of the biggest, most profitable game developers and publishers in the world. His mission is to recruit and organise a group of people with similar ideologies who would also like to create games and software that better suit their audiences. 
