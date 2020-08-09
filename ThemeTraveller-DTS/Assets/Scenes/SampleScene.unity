@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ad691857d58cfa44a3193f56b559e41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Token: {fileID: 6908321575391626111, guid: e2f472c0879d7964f8d350e56b479982, type: 3}
+  Window: {fileID: 6908321575391626111, guid: e2f472c0879d7964f8d350e56b479982, type: 3}
   Canvas: {fileID: 0}
 --- !u!4 &69816816
 Transform:

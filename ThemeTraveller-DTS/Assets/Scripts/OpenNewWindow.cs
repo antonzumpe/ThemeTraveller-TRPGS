@@ -14,7 +14,7 @@ public class OpenNewWindow : MonoBehaviour
 
     public void OnClick()
     {
-        GameManager.CreateTokens(3);
+        GameManager.CreateWindows(1);
     }
 
     // Update is called once per frame
