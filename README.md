@@ -128,3 +128,4 @@ Features - Purchase Custom Dice, Subscription Models, Download Add-ons, Online A
 Systems - 3D Miniatures and Dungeon Tiles, Sounds Window (media player),<br/> 
 Rule Sets - D&D 3.5/4th/5th Edition, Pathfinder 2nd Edition, Star Wars Roleplaying Game,<br/>
 Features - Purchase Core Rules and Modules, Core Set Identifying Symbols,
+Mini Game - Custom Trading Card Game (game master creates the cards and gives them out as loot to the players who can then use the cards to build decks and battle each other)
