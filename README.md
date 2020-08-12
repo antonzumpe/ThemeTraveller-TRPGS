@@ -121,7 +121,7 @@ Transparency of distributed funds for the project including number of hours each
 
 Library - Core Rule Books, Adventures, Supplemental Books,<br/>
 Tokens/Models - Monsters, Characters, Buildings, Trees, Accessories, Traps, Secret Doors, Terrain,<br/>
-Features - Purchase Custom Dice, Subscription Models, Download Add-ons, Online Account for Downloading Purchases, 
+Features - Purchase Custom Dice, Subscription Models, Download Add-ons, Online Account for Downloading Purchases, Player Stash, Group Stash,
 
 # Possible Future Release
 
