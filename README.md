@@ -1,7 +1,7 @@
 # Readme
 
 Last updated on 8 Aug 2020</br>
-<b>Theme Traveller: Tabletop RPG Software</b> is being developed in the <b><i>Unity Game Engine</i></b>
+<b>Theme Traveller: Tabletop RPG Software</b> is being developed in the <b><i>Godot Game Engine</i></b>
 
 # Introduction
 
